@@ -28,3 +28,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Form Burguer - Preview:
 ![Form](/imagesReadMe/form-image.png "Preview - Form")
+
+### Order Screen - Preview:
+![Order](/imagesReadMe/order-display.png "Preview - Order")
