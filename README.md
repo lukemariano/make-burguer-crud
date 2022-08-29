@@ -31,3 +31,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Order Screen - Preview:
 ![Order](/imagesReadMe/order-display.png "Preview - Order")
+
+### Order Screen with Updated Status - Preview:
+![Updated](/imagesReadMe/update-order-screen.png "Preview - Updated Method Request")

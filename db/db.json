@@ -99,7 +99,7 @@
         "Cheddar",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
@@ -126,7 +126,7 @@
         "Cheddar",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -152,16 +152,6 @@
       ],
       "status": "Solicitado",
       "id": 7
-    },
-    {
-      "nome": "Teste",
-      "pao": "3 Queijos",
-      "carne": "Picanha",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 9
     }
   ]
 }
