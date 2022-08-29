@@ -103,17 +103,6 @@
       "id": 2
     },
     {
-      "nome": "Marcos",
-      "pao": "Integral",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "nome": "Enzo Pascal",
       "pao": "Italiano Branco",
       "carne": "Maminha",
@@ -151,6 +140,28 @@
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "John Wick",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Teste",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 9
     }
   ]
 }
