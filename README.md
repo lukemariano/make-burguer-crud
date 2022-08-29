@@ -24,4 +24,7 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project Preview - Initial State:
-![Imagem](/imagesReadMe/tela-inicial.jpeg "Preview")
+![Imagem](/imagesReadMe/tela-inicial.jpeg "Preview - Banner")
+
+### Form Burguer - Preview:
+![Form](/imagesReadMe/form-image.png "Preview - Form")
